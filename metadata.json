@@ -1,0 +1,6 @@
+{
+  "name": "Deadline Guardian AI",
+  "description": "An AI-native productivity platform that helps you complete important work before deadlines are missed using a multi-agent execution architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
